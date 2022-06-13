@@ -1,8 +1,16 @@
 # Hi!, I'm Mahim Kapoor 👋
 
-[<img align="left" alt="Mahim Kapoor | Github" src="/assets/icons/github-white.svg" style="color: white; height:70px;width:70px;" />](https://github.com/mahimk9)
+[<img align="left" alt="Mahim Kapoor | Github" src="/assets/icons/github-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)
 
-[<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/linkedin-white.svg" style="color: white; height:70px;width:70px;" />](https://github.com/mahimk9)
+[<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/linkedin-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)
+
+[<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/codechef-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)
+
+[<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/hackerrank-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)
+
+[<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/geeksforgeeks-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)
+
+[<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/leetcode-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)
 
 <br>
 <br>
