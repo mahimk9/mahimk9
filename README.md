@@ -1,4 +1,4 @@
-## Hi!, I'm Mahim Kapoor 👋
+# Hi!, I'm Mahim Kapoor 👋
 
 <!--
 **mahimk9/mahimk9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
