@@ -1,10 +1,12 @@
 # Hi!, I'm Mahim Kapoor 👋
 
-[<img align="left" alt=" | Github" src="/assets/icons/github-white.svg" style="color: white; height:80px;width:80px;" />](https://github.com/)
+[<img align="left" alt="Mahim Kapoor | Github" src="/assets/icons/github-white.svg" style="color: white; height:70px;width:70px;" />](https://github.com/mahimk9)
+
+[<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/linkedin-white.svg style="color: white; height:70px;width:70px;" />]()
 
 <br>
 <br>
-<br>
+<br/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
