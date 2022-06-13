@@ -1,6 +1,6 @@
 # Hi!, I'm Mahim Kapoor 👋
 
-[<img align="left" alt="Niladri Mondal | Github" src="/assets/icons/icons8-github.svg" />](https://github.com/imniladri)
+[<img align="left" alt=" | Github" src="/assets/icons/icons8-github.svg" />](https://github.com/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
