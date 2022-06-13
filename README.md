@@ -26,6 +26,8 @@
   - 📫 **How to reach me: !LinkedIn!**
   - ⚡ **Fun fact: I ❤️ Food!**
 
+<br/>
+
 ## Languages and Tools :
 
 <img align="left" alt="Visual Studio Code" width="40" src="/assets/tools/visual-studio.png" />
@@ -37,8 +39,15 @@
 <img align="left" alt="Git" width="40" src="/assets/tools/git.png" />
 <img align="left" alt="GitHub" width="40" src="/assets/tools/github.png" />
 
+<br/>
+
 ## GitHub Stats :
 
 <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=mahimk9&show_icons=true&theme=github_dark" />
 
+<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=mahimk9&theme=github_dark" />
+
+<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=mahimk9&theme=github_dark" />
+
+<br/>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmahimk9&label=VISITORS&countColor=%2337d67a)
