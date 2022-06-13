@@ -1,6 +1,7 @@
 # Hi!, I'm Mahim Kapoor 👋
 
-[<img align="left" alt="Mahim Kapoor | Github" src="/assets/icons/github-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)<code>&nbsp;&nbsp;&nbsp;&nbsp;</code>
+<p align="center">
+[<img align="left" alt="Mahim Kapoor | Github" src="/assets/icons/github-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)
 
 [<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/linkedin-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)
 
@@ -12,6 +13,7 @@
 
 [<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/leetcode-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)
 
+</p>
 <br>
 <br>
 <br/>
