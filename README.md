@@ -19,7 +19,7 @@
 # About Me :
 
 - - 👨🏻‍🎓 **Currently pursuing {B.Tech [CS] + MBA} Integrated Course from NMIMS,MPSTME.**
-  - 🌱 **I’m currently learning Full Stack Web Development and MERN Stack.**
+  - 🌱 **I’m currently learning Full Stack Web Development | MERN Stack | React.**
   - 🔭 **Working on improving and practicing DSA.**
   - 👯 **Looking out to contribute to more OPEN-SOURCE PROJECTS!**
   - 💬 **Ask me about Mathematics :P**
