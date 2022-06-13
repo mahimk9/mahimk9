@@ -6,7 +6,7 @@
 
 [<img align="left" alt="Mahim Kapoor | Codechef" src="/assets/icons/codechef-white.svg" style="color: white; height:65px;width:65px;" />](https://www.codechef.com/users/mahimk9/)
 
-[<img align="left" alt="Mahim Kapoor | Hackerrank src="/assets/icons/hackerrank-white.svg" style="color: white; height:65px;width:65px;" />](https://www.hackerrank.com/mahimk9/)
+[<img align="left" alt="Mahim Kapoor | Hackerrank" src="/assets/icons/hackerrank-white.svg" style="color: white; height:65px;width:65px;" />](https://www.hackerrank.com/mahimk9/)
 
 [<img align="left" alt="Mahim Kapoor | GeeksForGeeks" src="/assets/icons/geeksforgeeks-white.svg" style="color: white; height:65px;width:65px;" />](https://auth.geeksforgeeks.org/user/mahimkapoor86/profile/)
 
@@ -45,9 +45,9 @@
 
 <img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=mahimk9&show_icons=true&theme=github_dark" />
 
-<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=mahimk9&theme=github_dark" />
+<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=mahimk9&theme=react" />
 
-<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=mahimk9&theme=github_dark" />
+<img align="center" width="1000" src="https://activity-graph.herokuapp.com/graph?username=mahimk9&theme=react-dark" />
 
 <br/>
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmahimk9&label=VISITORS&countColor=%2337d67a)
