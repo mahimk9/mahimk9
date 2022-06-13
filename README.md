@@ -1,14 +1,14 @@
 # Hi!, I'm Mahim Kapoor 👋
 
-&nbsp; [<img align="left" alt="Mahim Kapoor | Github" src="/assets/icons/github-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9) &nbsp;
+&nbsp; [<img align="left" alt="Mahim Kapoor | Github" src="/assets/icons/github-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)
 
-[<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/linkedin-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9) &nbsp;
+[<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/linkedin-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)
 
-[<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/codechef-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9) &nbsp;
+[<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/codechef-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)
 
-[<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/hackerrank-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9) &nbsp;
+[<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/hackerrank-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)
 
-[<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/geeksforgeeks-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9) &nbsp;
+[<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/geeksforgeeks-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)
 
 [<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/leetcode-white.svg" style="color: white; height:65px;width:65px;" />](https://github.com/mahimk9)
 
@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-#About Me!
+# About Me!
 
     - 👨🏻‍🎓 Currently pursuing {B.Tech [CS] + MBA} Integrated Course from NMIMS,MPSTME.
     - 🌱 I’m currently learning Full Stack Web Development and MERN Stack.
