@@ -1,6 +1,6 @@
 # Hi!, I'm Mahim Kapoor 👋
 
-[<img align="left" alt=" | Github" src="/assets/icons/github-white.svg" style="width=90;height=90;" />](https://github.com/)
+[<img align="left" alt=" | Github" src="/assets/icons/github-white.svg" " />](https://github.com/)
 
 <br>
 <br>
