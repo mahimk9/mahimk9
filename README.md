@@ -4,11 +4,11 @@
 
 [<img align="left" alt="Mahim Kapoor | Linkedin" src="/assets/icons/linkedin-white.svg" style="color: white; height:65px;width:65px;" />](https://www.linkedin.com/in/mahimk9/)
 
-[<img align="left" alt="Mahim Kapoor | Codechef" src="/assets/icons/codechef-white.svg" style="color: white; height:65px;width:65px;" />](https://www.codechef.com/users/mahimk9)
+[<img align="left" alt="Mahim Kapoor | Codechef" src="/assets/icons/codechef-white.svg" style="color: white; height:65px;width:65px;" />](https://www.codechef.com/users/mahimk9/)
 
-[<img align="left" alt="Mahim Kapoor | Hackerrank src="/assets/icons/hackerrank-white.svg" style="color: white; height:65px;width:65px;" />](https://www.hackerrank.com/mahimk9)
+[<img align="left" alt="Mahim Kapoor | Hackerrank src="/assets/icons/hackerrank-white.svg" style="color: white; height:65px;width:65px;" />](https://www.hackerrank.com/mahimk9/)
 
-[<img align="left" alt="Mahim Kapoor | GeeksForGeeks" src="/assets/icons/geeksforgeeks-white.svg" style="color: white; height:65px;width:65px;" />](https://auth.geeksforgeeks.org/user/mahimkapoor86/profile)
+[<img align="left" alt="Mahim Kapoor | GeeksForGeeks" src="/assets/icons/geeksforgeeks-white.svg" style="color: white; height:65px;width:65px;" />](https://auth.geeksforgeeks.org/user/mahimkapoor86/profile/)
 
 [<img align="left" alt="Mahim Kapoor | Leetcode" src="/assets/icons/leetcode-white.svg" style="color: white; height:65px;width:65px;" />](https://leetcode.com/mahimk9/)
 
