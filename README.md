@@ -22,7 +22,7 @@
   - 🌱 **I’m currently learning Full Stack Web Development | MERN Stack | React.**
   - 🔭 **Working on improving and practicing DSA.**
   - 👯 **Looking out to contribute to more OPEN-SOURCE PROJECTS!**
-  - 💬 **Ask me about Mathematics :P**
+  - 💬 **Ask me about Mathematics 😂**
   - 📫 **How to reach me: !LinkedIn!**
   - ⚡ **Fun fact: I ❤️ Food!**
 
